@@ -8,3 +8,10 @@
 --------------
 
 - [Деплой](https://aleksa-esme.github.io/Cats_VueJS/#/all)
+
+### Технологии
+- Javascript 
+- Vue
+- Vue Router
+- HTML
+- SCSS
